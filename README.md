@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Helya-Moradi/Helya-Moradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Helya! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I'm a junior frontend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 I’m currently working on Hamresan
+
+- 💬 Ask me about html, css, javascript and react
+
+- 📫 How to contact me: helya.m78@gmail.com
+
+- ✨ Fun fact: I love animals and musics
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://helyamoradi.ir/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helya-moradi)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, Bootstrap, Git, Github, Graphql, Sass, Typescript, Vite,Webpack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,git,github,graphql,sass,ts,vite,webpack)](https://skillicons.dev)
